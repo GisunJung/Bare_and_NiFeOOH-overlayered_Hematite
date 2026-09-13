@@ -1,7 +1,8 @@
 # Bare_and_NiFeOOH-overlayered_Hematite
 Sharing Data of Research Paper of Hematite Photoanodes
 
-# DATA: Features Measured from Bare and NiFeOOH-overlayered Hematite Photoanodes / PROJECT: ML FRAMEWORK FOR HEMATITE
+# DATA: Features Measured from Bare and NiFeOOH-overlayered Hematite Photoanodes
+# PROJECT: ML FRAMEWORK FOR HEMATITE
 
 This repository contains the dataset used in the paper: **"Interpretable Machine Learning Reveals the Role of NiFeOOH Overlayer, Limiting Factors across PEC Performance States, and Optimization Directions in Hematite(α−Fe<sub>2</sub>O<sub>3</sub>) Photoanodes"**.
 
